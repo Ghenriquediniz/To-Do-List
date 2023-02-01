@@ -1,0 +1,12 @@
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Release\List.exe
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\List.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\List.Taks.resources
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\List.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\List.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Release\Task.exe.config
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Release\Task.exe
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Release\Task.pdb
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\Task.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\Task.exe
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Release\Task.pdb

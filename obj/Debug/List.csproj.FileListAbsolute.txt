@@ -1,0 +1,11 @@
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Debug\List.exe.config
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Debug\List.exe
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\bin\Debug\List.pdb
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.exe
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.pdb
+C:\Users\guigu\OneDrive\GUI\Tarefa\List\obj\Debug\List.Taks.resources
